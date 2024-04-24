@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RcodePlay
 - 👀 I’m interested in Neural networks, AI, cryptocurrencies and microcontrollers
-- 🌱 I’m currently learning how to boost RF signal for a PMR radio
+- 🌱 I’m currently learning how to migrate a mongodb database and API to azure
 - 📫 How to reach me?
            - Discord: RcodePlay
            - E-Mail: rcodeplay@gmail.com
