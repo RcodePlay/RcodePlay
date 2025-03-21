@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an HF radio.<br>🌱 I’m currently learning how to make a custom SDR transceiver.<br>💬 Ask me about anything.<br>⚡ Fun fact: Most of the fun facts aren't actually fun.
+🔭 I’m currently working on an HF radio.<br>🌱 I’m currently learning how to make a custom SDR transceiver.<br>💬 Ask me about any of my recent or future projects: ryancode.eh@gmail.com<br>⚡ Fun fact: Most of the fun facts aren't actually fun.
 
 
 ## 🌐 Socials:
